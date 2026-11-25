@@ -6,7 +6,7 @@ Outpost Agent is an AI-powered collaborative workspace that brings together inte
 
 Instead of switching between multiple tools, Outpost provides a unified environment where users can interact with AI, design diagrams, document ideas, and collaborate on projects.
 
-## ✨ Features
+##  Features
 
 - **AI Agent Assistant** — Interact with an AI assistant powered by Google Gemini to generate ideas, answer questions, and assist with workspace tasks.
 - **Interactive Canvas** — Create and edit diagrams, visualize relationships, and organize ideas using an interactive canvas.
